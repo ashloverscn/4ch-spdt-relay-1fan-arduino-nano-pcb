@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555d_5555557d)
+			(layerselection 0x00000000_00000000_55555555_5555557d)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -82,7 +82,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 4)
 			(mirror no)
-			(drillshape 2)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
