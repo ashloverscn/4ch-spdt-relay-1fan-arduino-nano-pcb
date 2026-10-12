@@ -3082,7 +3082,7 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/Arduino_Nano.STEP"
 			(offset
-				(xyz 7.5 -17.5 0)
+				(xyz 7.63 -17.8 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -14040,7 +14040,7 @@
 	)
 	(gr_rect
 		(start 80.35 54.74)
-		(end 224.24 151.99)
+		(end 224.24 152.02)
 		(stroke
 			(width 0.05)
 			(type default)
