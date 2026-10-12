@@ -3080,15 +3080,15 @@
 			(uuid "89bf5b17-3d8e-48a5-9c87-159586b36f86")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/Arduino_Nano_WithMountingHoles.step"
+		(model "${KICAD10_3DMODEL_DIR}/Module.3dshapes/Arduino_Nano.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -17.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
