@@ -3,4 +3,4 @@
 
 firmware written in arduino : 
 
-https://github.com/ashloverscn/Code_ArduinoUNO_EEPROM_WiFi_IR_Button_4Relay
+https://github.com/ashloverscn/ArduinoNano-4ch_Relay_and_1_Fan
