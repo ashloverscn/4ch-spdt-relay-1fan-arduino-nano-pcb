@@ -254,8 +254,15 @@
 			)
 		)
 		(property ki_fp_filters "Relay*SPDT*Omron*G5LE?1*")
+		(path "/0212d6cd-9d95-4eaa-a6f9-4b0a38850714")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "2" "4" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -764,8 +771,15 @@
 				)
 			)
 		)
+		(path "/91f7583f-447f-4165-a417-837f903f4180")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "4" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1012,8 +1026,15 @@
 			)
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/9af554f8-94f9-4202-903b-2e690be9c8c8")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1415,8 +1436,15 @@
 			)
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/bcadb9a2-4edd-411b-b16c-e6143db9df52")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1817,8 +1845,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/548dfae1-c692-484e-802a-758fcf4f5c99")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2058,8 +2093,15 @@
 				)
 			)
 		)
+		(path "/d94154d6-a8bc-48c4-a71c-f8a410b7c9e5")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "V+" "OUT" "GND")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2255,8 +2297,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/093ad255-eaaf-45e8-99f1-b1af30b21281")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2412,8 +2461,18 @@
 			)
 		)
 		(property ki_fp_filters "Arduino*Nano*")
+		(path "/e95ebe33-94fd-4559-8024-fada32bf568f")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15" "16"
+					"30" "4" "17" "29" "27" "28" "3" "18" "19" "20" "21" "22" "23" "24"
+					"25" "26"
+				)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2821,7 +2880,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(A1-D4-Pad7)")
+			(net "Net-(A1-D4)")
 			(pinfunction "D4_7")
 			(pintype "bidirectional")
 			(uuid "0ccacf5e-c8bd-4013-9ec7-e170e2124e37")
@@ -3156,8 +3215,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/33b291de-afda-499a-a990-8d374823c265")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3321,8 +3387,15 @@
 			)
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/9e1c6966-3b5f-40e0-a58d-bee30b82be05")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3674,8 +3747,15 @@
 			)
 		)
 		(property ki_fp_filters "Relay*SPDT*Omron*G5LE?1*")
+		(path "/5313a82c-1ee4-48f2-b696-215a839f052f")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "2" "4" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4057,8 +4137,15 @@
 			)
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/1ea85c78-d425-4a07-b551-05749d290f01")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4460,8 +4547,15 @@
 			)
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/6f4ee050-3c07-4691-ae37-298fc5996c54")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4972,8 +5066,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/89535e8e-2147-4d90-9413-6a51d15b5eb7")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5137,8 +5238,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/f714e7fb-b3b4-48a1-91ac-1501b825536c")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5412,8 +5520,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/491178be-c569-48c2-ae94-8032776b3786")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5577,8 +5692,15 @@
 			)
 		)
 		(property ki_fp_filters "Converter*ACDC*Hi?Link*HLK?10M*")
+		(path "/dc73a424-7755-4eb7-b071-7ceba98b673d")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "4" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5799,8 +5921,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/615d3b29-799a-4743-9a57-2f519184f8a1")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5964,8 +6093,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/27ef8ef6-419d-4140-87ea-fbcd278bfff7")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6129,8 +6265,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/fc9d2120-4675-4b3f-834a-2dd8c2e07ef1")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6294,8 +6437,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/dbbfeaf4-8f5f-4a52-a772-551dfe0ecbdb")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6472,8 +6622,15 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+		(path "/ced140fe-fffb-4b74-afcd-9a5057b725a3")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6678,8 +6835,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/110f666d-a737-4c66-b037-b759bc66b71a")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6856,8 +7020,15 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+		(path "/a57123ee-7c08-4166-94e4-0a252f276a2a")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7088,8 +7259,15 @@
 			)
 		)
 		(property ki_fp_filters "D*DO?41*")
+		(path "/94c52da5-c62b-448d-a163-4a14c67d962c")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7371,8 +7549,15 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+		(path "/8be9cd28-4744-4bab-a1e6-f4813c967c73")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7577,8 +7762,15 @@
 			)
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/12980254-0655-4671-bf73-3a285a64262f")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7937,8 +8129,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/426fc874-7bbc-4c94-858c-1680928e9584")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8128,8 +8327,15 @@
 			)
 		)
 		(property ki_fp_filters "D*DO?41*")
+		(path "/0d2c3cf1-1489-4838-8d90-7190a0af6d9c")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8398,8 +8604,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/4a9effe9-6ff1-4343-bf51-b450728559b7")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8589,8 +8802,15 @@
 			)
 		)
 		(property ki_fp_filters "D*DO?41*")
+		(path "/0ee47608-ecb7-4a95-b119-cbf84459d9ac")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8859,8 +9079,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/b1b030fa-14d8-4432-8398-a26c930114e9")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9042,8 +9269,15 @@
 			)
 		)
 		(property ki_fp_filters "TO?92*")
+		(path "/4e57e787-39af-47d6-9d4d-3a0615d49896")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9207,6 +9441,309 @@
 			)
 		)
 	)
+	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(layer "F.Cu")
+		(uuid "94e45d17-2bee-47e7-9fa4-036aecfd31b2")
+		(at 159.74 136.53 180)
+		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
+		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
+		(property "Reference" "D9"
+			(at 3.81 -2.12 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "82228e3f-8920-4e7a-9c0b-ac97ef73f492")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 3.81 2.12 0)
+			(layer "F.Fab")
+			(uuid "3de504e1-48af-4138-9757-58a2f59e3c01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b30884b-f280-4418-9799-3dc613669bb7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "763e74fb-5e6d-4c32-af80-0c0286853279")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "374bee63-a9db-4f81-bc3d-14e8099b0e9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6dbfb671-0f45-41ac-a957-36be6f498c35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0a55ddc-c7dc-40a9-8aba-359906661def")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "D*DO?35*")
+		(path "/1f0afbc0-21f4-46a1-8d06-8e35925bb65a")
+		(sheetname "/")
+		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start 6.58 0)
+			(end 5.93 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "092892b0-c5b7-4dd8-853c-c60054a46192")
+		)
+		(fp_line
+			(start 2.53 -1.12)
+			(end 2.53 1.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4613bd1f-d707-40a8-b3a5-b4a54103ad3c")
+		)
+		(fp_line
+			(start 2.41 -1.12)
+			(end 2.41 1.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "52f14bd5-a959-4da1-9ee9-1310880e4133")
+		)
+		(fp_line
+			(start 2.29 -1.12)
+			(end 2.29 1.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e2589a65-4e08-4b6d-bd6b-60d733ac8816")
+		)
+		(fp_line
+			(start 1.04 0)
+			(end 1.69 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "aade4a42-d631-4c56-8b7b-71864017ee4f")
+		)
+		(fp_rect
+			(start 1.69 -1.12)
+			(end 5.93 1.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "58edbb92-cc36-40e6-94fd-e95344dd858b")
+		)
+		(fp_rect
+			(start -1.05 -1.25)
+			(end 8.67 1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "1dbbe476-6124-4e98-ae22-6559000b727e")
+		)
+		(fp_line
+			(start 7.62 0)
+			(end 5.81 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "51d5750c-a214-49e1-9e6b-a81fcb9d787a")
+		)
+		(fp_line
+			(start 2.51 -1)
+			(end 2.51 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3ec4976e-f7f2-4b30-9087-b2c18ba345a1")
+		)
+		(fp_line
+			(start 2.41 -1)
+			(end 2.41 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e695a387-32d3-4633-a2f1-411ab7659fa1")
+		)
+		(fp_line
+			(start 2.31 -1)
+			(end 2.31 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2b52200f-9196-400c-8575-7ed4a0da829a")
+		)
+		(fp_line
+			(start 0 0)
+			(end 1.81 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9d53a7b6-8e2e-4ffc-9999-894d9c7c4a6a")
+		)
+		(fp_rect
+			(start 1.81 -1)
+			(end 5.81 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "69374e08-2445-4faf-8170-38ec65967282")
+		)
+		(fp_text user "K"
+			(at 0 -1.8 0)
+			(layer "F.SilkS")
+			(uuid "a9abc864-c0c9-4cf6-abeb-90036fb25718")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 4.11 0 0)
+			(layer "F.Fab")
+			(uuid "369bc70d-9653-40c9-b08e-30af8096f88f")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(fp_text user "K"
+			(at 0 -1.8 0)
+			(layer "F.Fab")
+			(uuid "82f8ab89-170f-4454-8d0c-c28280a9d498")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole roundrect
+			(at 0 0 180)
+			(size 1.6 1.6)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(roundrect_rratio 0.15625)
+			(net "+5V")
+			(pinfunction "K_1")
+			(pintype "passive")
+			(uuid "f480794e-6d22-491a-aaf6-8d36ab42aee6")
+		)
+		(pad "2" thru_hole circle
+			(at 7.62 0 180)
+			(size 1.6 1.6)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "Net-(BZ1--)")
+			(pinfunction "A_2")
+			(pintype "passive")
+			(uuid "ffa8d66d-d3fc-4779-aa39-68b9581d428e")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "9a157943-cac9-461c-8281-ac731f53306b")
@@ -9289,8 +9826,15 @@
 			)
 		)
 		(property ki_fp_filters "TO?92*")
+		(path "/c3774efd-1cf4-4b76-96ea-47280a70ed64")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9544,8 +10088,15 @@
 			)
 		)
 		(property ki_fp_filters "D*DO?41*")
+		(path "/a402d7f7-3eb2-4d4e-865a-c4671cecf75d")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9814,8 +10365,15 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
+		(path "/1a5fa683-c617-45d3-828a-50e816c7d910")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9924,6 +10482,185 @@
 			)
 		)
 	)
+	(footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
+		(layer "F.Cu")
+		(uuid "a24dd0ac-31db-4123-8a05-c2f93c206437")
+		(at 159.73 127.49 180)
+		(descr "Generic Buzzer, D12mm height 9.5mm with RM7.6mm")
+		(tags "buzzer")
+		(property "Reference" "BZ1"
+			(at 3.92 -2.28 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6e920391-277f-498b-9ff4-57a6bcac98d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Buzzer"
+			(at 3.8 7.4 0)
+			(layer "F.Fab")
+			(uuid "1bab0a19-9190-4036-9935-6d14f6df6805")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0804945c-811d-45cc-b460-62daa8ca2068")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Buzzer, polarized"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "937bdc45-5a4b-4789-ba7b-6d7ab8275e3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "*Buzzer*")
+		(path "/2304999b-a0bc-46ea-8a8d-fe56f0d0b93f")
+		(sheetname "/")
+		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center 3.8 0)
+			(end 9.9 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "a3305cbb-943b-4398-a079-3c9f61baa0cd")
+		)
+		(fp_circle
+			(center 3.8 0)
+			(end 10.05 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "4fa8b3dc-7fef-41b9-a886-b3d358c29f62")
+		)
+		(fp_circle
+			(center 3.8 0)
+			(end 9.8 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "3e3554c2-6480-4161-b2cb-e76c620eff7e")
+		)
+		(fp_circle
+			(center 3.8 0)
+			(end 4.8 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "85feed65-3696-4216-9b23-aedaf814d0b4")
+		)
+		(fp_text user "+"
+			(at -0.01 -2.54 0)
+			(layer "F.SilkS")
+			(uuid "44ec8184-8349-45b5-976d-ae2da183ef33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 3.8 -4 0)
+			(layer "F.Fab")
+			(uuid "fb02f6c0-05a8-4ed4-856f-4d43fbc653fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "+"
+			(at -0.01 -2.54 0)
+			(layer "F.Fab")
+			(uuid "3711fba2-e436-4166-bffe-ee2bad582435")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 180)
+			(size 2 2)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "+5V")
+			(pinfunction "+_1")
+			(pintype "passive")
+			(uuid "3a5344e1-8789-40a4-92f0-8f7518d92cae")
+		)
+		(pad "2" thru_hole circle
+			(at 7.6 0 180)
+			(size 2 2)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "Net-(BZ1--)")
+			(pinfunction "-_2")
+			(pintype "passive")
+			(uuid "ea14258a-7c2a-4b56-889a-2e6da20a1c81")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a4d735d1-dbf1-4ad2-93d0-431f5df262ad")
@@ -9989,8 +10726,15 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/3e830f6f-9c32-443d-ac12-73bfbc92202a")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10279,8 +11023,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/7d794324-5e8f-424d-9a88-eea6fdfa46b0")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10444,8 +11195,15 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
+		(path "/afcabb83-c4ad-4fea-b519-c488c8d2bc65")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "4" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10705,8 +11463,15 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*")
+		(path "/34dcf733-0fb4-4618-a040-bb1b499dfcf1")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "5" "6" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10913,6 +11678,177 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W7.62mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
+		(layer "F.Cu")
+		(uuid "ac761098-650b-44ab-9e99-dc1b6af470c7")
+		(at 149.87 142.49 180)
+		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
+		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm")
+		(property "Reference" "R13"
+			(at 1.27 -1.92 0)
+			(layer "F.SilkS")
+			(uuid "a7d4e486-6cfe-4bd0-8877-3bb039a7f5b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 1.27 1.92 0)
+			(layer "F.Fab")
+			(uuid "91813ae4-0eb5-4c77-a2f3-4812f36f003a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d4e5bfc-e0d8-42f5-9e6d-c9ca87c2f6d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bcc4d4f-0f9c-4a43-9d7f-33d1d9019218")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "87d08747-48d6-4ae1-8706-dfced552cb60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/e9e785f2-5709-42e4-8fdb-43e106f5195d")
+		(sheetname "/")
+		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start 0.92 0)
+			(end 1.54 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6aaa6ae3-7089-470a-987c-234c30135332")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 0.92 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "fdbea5b5-1138-44fa-a18c-200c00dcd003")
+		)
+		(fp_rect
+			(start -1.05 -1.05)
+			(end 3.49 1.05)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "8da37d58-0786-416d-967e-bc21893d513d")
+		)
+		(fp_line
+			(start 0 0)
+			(end 2.54 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b32dee9c-7fa8-44f6-b4ce-47f421e8f721")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 0.8 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "24e91ffb-2f94-45b9-8a45-26d42e6c01c5")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 1.27 -1.92 0)
+			(layer "F.Fab")
+			(uuid "ca0a99a1-bb86-4ba8-80df-9f17eaaecdd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 180)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "Net-(Q6-B)")
+			(pintype "passive")
+			(uuid "156292fe-452e-45cb-81f1-b2ef4a799651")
+		)
+		(pad "2" thru_hole circle
+			(at 2.54 0 180)
+			(size 1.4 1.4)
+			(drill 0.7)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "Net-(A1-D4)")
+			(pintype "passive")
+			(uuid "29bc8e22-c016-4c96-8676-406327e396e5")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11277,6 +12213,259 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "Package_TO_SOT_THT:TO-92_Inline"
+		(layer "F.Cu")
+		(uuid "b8a61047-8ad0-4a86-87d3-34e51788f092")
+		(at 155.42 143.68 90)
+		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
+		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
+		(property "Reference" "Q6"
+			(at 1.27 -3.56 90)
+			(layer "F.SilkS")
+			(uuid "27fadb79-7c45-4eaa-8152-ddef52d8b931")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "2N3904"
+			(at 1.27 2.79 90)
+			(layer "F.Fab")
+			(uuid "f112599a-d2ce-4c6c-9aae-eb1a042ef031")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1544c40-2211-47bb-a2b0-9d1d4b8d34cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b051f70-7096-471c-a0e0-97b08022454b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aedf87d4-7f7d-4f42-8ed8-3e1dc5af2a26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=E 2=B 3=C"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15e3037b-9e2c-4828-962d-64a136d60077")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO?92*")
+		(path "/cc23f1f1-2805-4335-937b-88bc609ed452")
+		(sheetname "/")
+		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.53 1.85)
+			(end 3.07 1.85)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b53c7340-315e-4751-b632-cb311ca2be86")
+		)
+		(fp_arc
+			(start 1.27 -2.6)
+			(mid 3.672087 -0.994977)
+			(end 3.108478 1.838478)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e44d9c01-941d-4182-8097-4be9aa13f766")
+		)
+		(fp_arc
+			(start -0.568478 1.838478)
+			(mid -1.132087 -0.994977)
+			(end 1.27 -2.6)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "86752332-4551-40c4-b9b6-16e6834e35c7")
+		)
+		(fp_line
+			(start -1.46 -2.73)
+			(end 4 -2.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "560f021b-d006-4e4d-b775-c5a74f2cf5ad")
+		)
+		(fp_line
+			(start -1.46 -2.73)
+			(end -1.46 2.01)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a9dec0be-149d-4f07-8f39-80240177ba16")
+		)
+		(fp_line
+			(start 4 2.01)
+			(end 4 -2.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "68d3fff2-3ee2-478f-87d9-5c332c2f60c6")
+		)
+		(fp_line
+			(start 4 2.01)
+			(end -1.46 2.01)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0a583de1-65b0-4270-8746-cfaca5a58cb6")
+		)
+		(fp_line
+			(start -0.5 1.75)
+			(end 3 1.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ad555745-9766-44b8-8801-3329747cc305")
+		)
+		(fp_arc
+			(start 1.27 -2.48)
+			(mid 3.561221 -0.949055)
+			(end 3.023625 1.753625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e490c3ff-8ba6-4309-9d2e-2735c60f6002")
+		)
+		(fp_arc
+			(start -0.483625 1.753625)
+			(mid -1.021221 -0.949055)
+			(end 1.27 -2.48)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ace07bf6-a7d6-4c09-af78-b9a7e90612d9")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 1.27 0 90)
+			(layer "F.Fab")
+			(uuid "d542132f-a378-46bc-890d-1be15add4e81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 90)
+			(size 1.05 1.5)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GND")
+			(pinfunction "E_1")
+			(pintype "passive")
+			(uuid "5328c6fc-85cc-4ddc-8ee9-04cfc7c7a2e1")
+		)
+		(pad "2" thru_hole oval
+			(at 1.27 0 90)
+			(size 1.05 1.5)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "Net-(Q6-B)")
+			(pinfunction "B_2")
+			(pintype "input")
+			(uuid "85d4a067-343f-4f78-974b-00a69b6295dc")
+		)
+		(pad "3" thru_hole oval
+			(at 2.54 0 90)
+			(size 1.05 1.5)
+			(drill 0.75)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "Net-(BZ1--)")
+			(pinfunction "C_3")
+			(pintype "passive")
+			(uuid "01d27e3e-8480-48c1-9159-61482de61e4c")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Package_TO_SOT_THT:TO-220-3_Vertical"
 		(layer "F.Cu")
 		(uuid "bcacc1fe-f1d1-4493-99e7-79ce545905b6")
@@ -11341,8 +12530,15 @@
 			)
 		)
 		(property ki_fp_filters "TO?220*")
+		(path "/7a3329ef-5c66-4f10-84e6-a5fc5ca287a3")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11589,8 +12785,15 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/9a55e986-38bd-43be-b5a7-99c576c2f3b4")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11890,8 +13093,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/3ecffbe9-95c3-45d8-b057-0c47099f0013")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12048,8 +13258,15 @@
 			)
 		)
 		(property ki_fp_filters "Relay*SPDT*Omron*G5LE?1*")
+		(path "/0331af18-fa3e-4722-a0d2-9badcdfb1c2d")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "2" "4" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12448,8 +13665,15 @@
 			)
 		)
 		(property ki_fp_filters "TO?92*")
+		(path "/88775e30-7edd-42bf-bca5-c6be67b73211")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12678,8 +13902,15 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/00a8abd3-74b8-4869-af43-6fbb3f800519")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12928,8 +14159,15 @@
 			)
 		)
 		(property ki_fp_filters "Relay*SPDT*Omron*G5LE?1*")
+		(path "/6af1721e-e098-4699-8cd8-8dbebb87edc1")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "2" "4" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13310,8 +14548,15 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
+		(path "/c117ecb3-2dc0-48a8-903c-cf64bb44285b")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13488,8 +14733,15 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+		(path "/23ea8c61-62ec-4215-b400-0518f03f59d0")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13712,8 +14964,15 @@
 			)
 		)
 		(property ki_fp_filters "TO?92*")
+		(path "/4acc6760-7799-4ff9-98ed-dcdb86153a6b")
 		(sheetname "/")
 		(sheetfile "4ch-spdt-relay-1fan-arduino-nano-pcb.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13939,6 +15198,18 @@
 	)
 	(gr_poly
 		(pts
+			(xy 118.5 139.03) (xy 119.52 139.03) (xy 119.52 140.03) (xy 118.5 140.03)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "0619b98b-2cf4-410d-bbc9-1cadfa58bc39")
+	)
+	(gr_poly
+		(pts
 			(xy 120.83 117.01) (xy 121.85 117.01) (xy 121.85 118.01) (xy 120.83 118.01)
 		)
 		(stroke
@@ -13960,6 +15231,18 @@
 		(fill yes)
 		(layer "B.Mask")
 		(uuid "d6ab7164-ce46-41ed-bd18-82e00566d3d2")
+	)
+	(gr_poly
+		(pts
+			(xy 131.25 139.02) (xy 132.27 139.02) (xy 132.27 140.02) (xy 131.25 140.02)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "c05dca21-28aa-4cea-9835-b4ea05033956")
 	)
 	(gr_poly
 		(pts
@@ -14678,6 +15961,14 @@
 		(uuid "15817712-7c1c-48d2-8da4-6270d61848c3")
 	)
 	(segment
+		(start 159.73 113.91)
+		(end 156.86 111.04)
+		(width 1)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "16b38538-279f-4941-9787-e277b45924db")
+	)
+	(segment
 		(start 135.34 95.64)
 		(end 134.73 96.25)
 		(width 2)
@@ -14998,6 +16289,14 @@
 		(uuid "9cf07b02-bdb9-4f09-b18b-83fc19514dce")
 	)
 	(segment
+		(start 159.73 136.52)
+		(end 159.74 136.53)
+		(width 1)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "a25c9df7-7a76-479f-9aba-3951dfeca84e")
+	)
+	(segment
 		(start 153.17 111.04)
 		(end 156.86 111.04)
 		(width 1)
@@ -15078,12 +16377,28 @@
 		(uuid "c87ca46b-a998-4b7f-8c47-aba902609dfd")
 	)
 	(segment
+		(start 159.73 127.49)
+		(end 159.73 136.52)
+		(width 1)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "c9eabd1b-00b7-49c7-812f-3db3b9438119")
+	)
+	(segment
 		(start 112.61 129.4)
 		(end 111.28 128.07)
 		(width 0.4)
 		(layer "B.Cu")
 		(net "+5V")
 		(uuid "d0bb5adb-daa6-451c-bf08-3376535803d4")
+	)
+	(segment
+		(start 159.73 127.49)
+		(end 159.73 113.91)
+		(width 1)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "d81ea8de-a98f-4797-ab84-b4f76b1207f1")
 	)
 	(segment
 		(start 152.142792 99.885)
@@ -15998,6 +17313,14 @@
 		(uuid "c3577e1d-a890-4e53-946f-abf228b64340")
 	)
 	(segment
+		(start 155.42 143.68)
+		(end 152.49 146.61)
+		(width 1)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "c83ece84-17f8-4f6e-a4cf-2ef3bbc1a11b")
+	)
+	(segment
 		(start 108.76 146.05)
 		(end 109.66 145.15)
 		(width 1)
@@ -16084,6 +17407,14 @@
 		(layer "B.Cu")
 		(net "GND")
 		(uuid "ee2239bf-13fa-4e4a-9cc1-626f6fdb32e1")
+	)
+	(segment
+		(start 152.49 146.61)
+		(end 131.12 146.61)
+		(width 1)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "ef18adb8-4641-48fb-a8da-c1467e4dfad8")
 	)
 	(segment
 		(start 108.12 104.85)
@@ -17588,6 +18919,110 @@
 		(layer "B.Cu")
 		(net "Net-(Q5-G)")
 		(uuid "cb40a7e7-2694-4140-ae09-4814425a61d1")
+	)
+	(segment
+		(start 131.77 139.51)
+		(end 119.02 139.51)
+		(width 1)
+		(layer "F.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "98a1acb4-47b0-438b-8f18-183b57de6e24")
+	)
+	(via
+		(at 131.77 139.51)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "860a81ee-282c-4844-8545-5c576e30d8c4")
+	)
+	(via
+		(at 119.02 139.51)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "cd121263-aec6-4c86-ae9d-270f9cb0676b")
+	)
+	(segment
+		(start 119.03 136.65)
+		(end 119.03 139.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "4a2abda8-4c18-4a12-a970-8c3d8801a8b6")
+	)
+	(segment
+		(start 144.35 139.51)
+		(end 131.77 139.51)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "6b7caa24-a088-4962-aa55-b61ccaa0c18c")
+	)
+	(segment
+		(start 147.33 142.49)
+		(end 144.35 139.51)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "75b3cb50-7699-4b0f-9ee5-493279ce3e63")
+	)
+	(segment
+		(start 119.03 139.5)
+		(end 119.02 139.51)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Net-(A1-D4)")
+		(uuid "b6390953-57ea-4115-8d77-922f3fd50a02")
+	)
+	(segment
+		(start 152.13 127.49)
+		(end 152.13 136.52)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(BZ1--)")
+		(uuid "35f3f722-73a9-4991-adbc-cc9fadec1af7")
+	)
+	(segment
+		(start 152.13 136.52)
+		(end 152.12 136.53)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(BZ1--)")
+		(uuid "9b454289-dc74-44f1-a5c1-120e15e2d2bb")
+	)
+	(segment
+		(start 155.42 139.83)
+		(end 152.12 136.53)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(BZ1--)")
+		(uuid "b5d0049b-b42c-4c9b-b075-b4759e4a75be")
+	)
+	(segment
+		(start 155.42 141.14)
+		(end 155.42 139.83)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(BZ1--)")
+		(uuid "c62bc2c3-7744-403d-98b8-273f66324c82")
+	)
+	(segment
+		(start 155.34 142.49)
+		(end 155.42 142.41)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Net-(Q6-B)")
+		(uuid "5a7c637d-e271-4338-b195-972dbc333e0b")
+	)
+	(segment
+		(start 149.87 142.49)
+		(end 155.34 142.49)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "Net-(Q6-B)")
+		(uuid "cfcc84b4-489b-44c9-9398-157941e5af84")
 	)
 	(embedded_fonts no)
 )
